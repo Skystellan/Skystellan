@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="264" viewBox="0 0 1200 264" role="img"><title>研究方向 · RL Scaling / Continual Learning / Agent Memory</title>
+<rect width="1200" height="264" fill="#18140f"/><rect x="1" y="1" width="1198" height="262" fill="none" stroke="#43392c" stroke-width="2"/>
+<text x="40" y="36" fill="#e0a458" font-size="16" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">01 / RESEARCH</text>
+<text x="40" y="78" fill="#f4eee2" font-size="32" font-family="Arial, PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif">从经验中学习，向未知处探索。</text>
+<path d="M40 125h340" stroke="#43392c"/>
+<text x="40" y="151" fill="#f4eee2" font-size="28" font-family="Arial, PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif">RL Scaling</text>
+<text x="40" y="183" fill="#b8ad98" font-size="22" font-family="Arial, PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif">环境、反馈与训练规模</text>
+<text x="40" y="209" fill="#b8ad98" font-size="22" font-family="Arial, PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif">共同塑造探索与能力。</text>
+<path d="M434 125h340" stroke="#43392c"/>
+<text x="434" y="151" fill="#f4eee2" font-size="28" font-family="Arial, PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif">Continual Learning</text>
+<text x="434" y="183" fill="#b8ad98" font-size="22" font-family="Arial, PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif">接纳新经验，也保留</text>
+<text x="434" y="209" fill="#b8ad98" font-size="22" font-family="Arial, PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif">和重组已有知识。</text>
+<path d="M828 125h340" stroke="#43392c"/>
+<text x="828" y="151" fill="#f4eee2" font-size="28" font-family="Arial, PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif">Agent Memory</text>
+<text x="828" y="183" fill="#b8ad98" font-size="22" font-family="Arial, PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif">积累、筛选与修正经验，</text>
+<text x="828" y="209" fill="#b8ad98" font-size="22" font-family="Arial, PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif">让记忆真正帮助推理。</text>
+</svg>
