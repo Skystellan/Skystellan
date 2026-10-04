@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="290" viewBox="0 0 1200 290" role="img"><title>IdeaFlow · 开源的本地科研画布 · MIT</title>
+<rect width="1200" height="290" fill="#18140f"/><rect x="1" y="1" width="1198" height="288" fill="none" stroke="#43392c" stroke-width="2"/>
+<text x="40" y="36" fill="#e0a458" font-size="16" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">04 / OPEN SOURCE · MIT</text>
+<text x="40" y="103" fill="#f4eee2" font-size="44" font-family="Arial, PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif">IdeaFlow</text>
+<text x="40" y="150" fill="#f4eee2" font-size="29" font-family="Arial, PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif">让想法、实验与证据连起来。</text>
+<text x="40" y="195" fill="#b8ad98" font-size="22" font-family="Arial, PingFang SC, Microsoft YaHei, Noto Sans CJK SC, sans-serif">研究分支 · 运行比较 · 本地数据 · Codex 技能</text>
+<text x="40" y="243" fill="#e0a458" font-size="17" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">PYTHON / SQLITE / ELECTRON</text>
+<text x="924" y="249" fill="#f4eee2" font-size="18" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">EXPLORE PROJECT ↗</text>
+<g transform="translate(816 100) scale(1)">
+<path d="M50 25h205M133 25v56h122" fill="none" stroke="#e0a458" stroke-width="2"/>
+<rect x="0" y="0" width="82" height="38" fill="#211b14" stroke="#43392c" stroke-width="2"/>
+<text x="12" y="24" fill="#b8ad98" font-size="14" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">IDEA</text>
+<rect x="105" y="0" width="82" height="38" fill="#211b14" stroke="#43392c" stroke-width="2"/>
+<text x="117" y="24" fill="#b8ad98" font-size="14" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">TEST</text>
+<rect x="210" y="0" width="82" height="38" fill="#211b14" stroke="#43392c" stroke-width="2"/>
+<text x="222" y="24" fill="#b8ad98" font-size="14" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">LEARN</text>
+<rect x="210" y="56" width="82" height="38" fill="#211b14" stroke="#43392c" stroke-width="2"/>
+<text x="222" y="80" fill="#b8ad98" font-size="14" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">NEXT</text>
+</g>
+</svg>
